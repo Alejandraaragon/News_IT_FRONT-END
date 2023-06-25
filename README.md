@@ -13,5 +13,5 @@ Este es un ejemplo básico de un sitio web de noticias en el que utilizo HTML, C
 En él se hace uso de Flexbox y CSS Grid
 
 ## Ir al sitio
-[News/IT](https://news-html-css-js.vercel.app/)
+[NewsIT](https://news-html-css-js.vercel.app/)
 
